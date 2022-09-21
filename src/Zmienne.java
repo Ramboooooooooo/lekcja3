@@ -35,5 +35,7 @@ public class Zmienne {
 
         boolean twierdz = true; //false
 
+
+        //https://github.com/przemjan/trzeciaPgr2
     }
 }
