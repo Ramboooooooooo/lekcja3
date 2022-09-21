@@ -18,5 +18,7 @@ public class ScannerDemo {
 
         System.out.println("Imię " +name+", Numer buta:" + numerButa+
                 " średnia: " + average);
+
+        // zad. 8, 9, 15, 18, 19, 20
     }
 }
